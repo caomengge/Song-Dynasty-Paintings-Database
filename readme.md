@@ -1,4 +1,4 @@
-# Song Dynasty Painting Database (Work-in-Progress)
+# Song Dynasty Paintings Database (Work-in-Progress)
 
 last updated April 5th, 2021
 

@@ -2,7 +2,7 @@
 
 last updated April 5th, 2021
 
-This database contains extant paintings that are dated to the period between the early 10th century and the first three-quarters of the 13th century. This period is chosen based on the dynastic framework of the Five Dynasties and Ten Kingdoms (907-979), Song (960-1279), Liao (916-1125), Jin (1115-1234), and Xi Xia (1038-1227) dynasties, which were political entities that occupied different regions of the China proper at different time. Painting is narrowly defined as a portable artifact with ink or pigment applied with a brush on silk or paper. Thus, this definition excludes other image-bearing mediums such as murals, ink rubbings, and woodblock imprints. 
+This database contains extant paintings that are dated to the period between the early tenth century and the first three-quarters of the 13th century in China. The term, painting, is narrowly defined as a portable artifact with ink or color pigment applied with a brush on silk or paper. This definition of painting excludes other contemporary image-bearing mediums such as murals, ink rubbings, and woodblock imprints. 
 
 ## Attributes
 - Title: in Chinese, defined by the collecting institutes or transmitted from historical text

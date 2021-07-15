@@ -37,9 +37,18 @@ Since only a proportion of works have a definite date of origin, I used approxim
 
 ## Source of Data
 
-- Academica Sinica 中央研究院, Visual resource database (under the project _Commonality and Divergence: The Convergence, Transmission, and Variation of Cultural Images of East Asia before the 18th Century_), last updated in 2014, accessed by http://eastasia.litphil.sinica.edu.tw/database.php.
-- National Place Museum 國立故宮博物院, Online catalog for paintings and calligraphy collection, accessed by https://painting.npm.gov.tw/.
-- Zhejiang University Press 浙江大學出版社, Complete Collection of Song Dynasty Paintings 宋畫全集, 2008-2020.
-- Catalogs of Selected Ancient Chinese Paintings and Calligraphy 中國古代書畫目錄, 1984-1997
-- James Cahill, An Index of Early Chinese Painters and Paintings, 1980
+- Academica Sinica 中央研究院, Tuxiang ziliao ku 圖像資料庫 (Repository of Image Sources), Gongxiang yu shuxiang shiba shiji qian Dongya wenhua yixiang de huiju liuchuan yu bianyi 共相與殊相: 十八世紀前東亞文化意象的匯聚、流傳與變異 (Commonality and Divergence: The Convergence, Transmission, and Variation of Cultural Images of East Asia before the 18th Century), last updated in 2014, accessed by http://eastasia.litphil.sinica.edu.tw/database.php.
+ 
+- National Palace Museum 國立故宮博物院, Shuhua diancang jiansuo xitong 書畫典藏檢索系統 (Index of paintings and calligraphy collection), accessed by https://painting.npm.gov.tw/.
 
+
+- Center of Historical Chinese Painting and Calligraphy 中國古代書畫研究中心, Songhua Quanji 宋畫全集 (Complete Collection of Song Dynasty Paintings). 8 volumes. Hangzhou: Zhejiang University Press, 2008-2021.
+
+
+- Compiled by the working group for authenticating historical chinese painting and calligraphy 中國古代書畫鑒定組. Zhongguo Gudai Shuhua Mulu 中國古代書畫目錄 (Illustrated Catalogs of Selected Ancient Chinese Paintings and Calligraphy). 24 volumes. Beijing: Wenwu chubanshe, 1984-1997.
+
+
+- Cahill, James. An Index of Early Chinese Painters and Paintings. Berkeley : University of California Press, 1980.
+
+
+- Compiled by Tōkyō Daigaku Tōyō Bunka Kenkyūjo Higashi Ajia Bumon Bijutsu Kenkyū Bun'ya 东京大学东洋文化研究所东アジア部门美术研究分野 (Department of East Asian art at the Institute of East Asian Studies, Tokyo University), Chūgoku Kaiga Sōgō Zuroku 中国绘画总合图录 (Comprehensive Illustrated Catalog of Chinese Paintings). 16 volumes. Tokyo: Tōkyō Daigaku Tōyō Bunka Kenkyūjo, 1982 - 2013. 

@@ -51,4 +51,4 @@ Since only a proportion of works have a definite date of origin, I used approxim
 - Cahill, James. An Index of Early Chinese Painters and Paintings. Berkeley : University of California Press, 1980.
 
 
-- Compiled by Tōkyō Daigaku Tōyō Bunka Kenkyūjo Higashi Ajia Bumon Bijutsu Kenkyū Bun'ya 东京大学东洋文化研究所东アジア部门美术研究分野 (Department of East Asian art at the Institute of East Asian Studies, Tokyo University), Chūgoku Kaiga Sōgō Zuroku 中国绘画总合图录 (Comprehensive Illustrated Catalog of Chinese Paintings). 16 volumes. Tokyo: Tōkyō Daigaku Tōyō Bunka Kenkyūjo, 1982 - 2013. 
+- Compiled by Tōkyō Daigaku Tōyō Bunka Kenkyūjo Higashi Ajia Bumon Bijutsu Kenkyū Bun'ya 东京大学东洋文化研究所东アジア部门美术研究分野 (Department of East Asian art at the Institute of East Asian Studies, Tokyo University), Chūgoku Kaiga Sōgō Zuroku 中国絵画総合図錄 (Comprehensive Illustrated Catalog of Chinese Paintings). 16 volumes. Tokyo: Tōkyō Daigaku Tōyō Bunka Kenkyūjo, 1982 - 2013. 

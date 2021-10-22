@@ -1,8 +1,12 @@
 # Song Dynasty Paintings Database (Work-in-Progress)
 
-last updated April 5th, 2021
+database last updated April 5th, 2021
 
-This database contains extant paintings that are dated to the period between the early tenth century and the first three-quarters of the 13th century in China. The term, painting, is narrowly defined as a portable artifact with ink or color pigment applied with a brush on silk or paper. This definition of painting excludes other contemporary image-bearing mediums such as murals, ink rubbings, and woodblock imprints. 
+This database contains extant paintings that are dated to the Song Dynasty (960-1279) or equivalent period in China. In this database, "painting" is defined as a portable artifact with silk or paper support, onto which ink or color pigments are applied with a brush. This definition excludes other image-bearing mediums such as murals, ink rubbings, and woodblock imprints. 
+
+This database is designed for conducting quantitative analysis on the development of painting formats in the Song dynasty. The preliminary results are under the directory "visualization."
+
+
 
 ## Attributes
 - Title: in Chinese, defined by the collecting institutes or transmitted from historical text
@@ -35,7 +39,7 @@ Since only a proportion of works have a definite date of origin, I used approxim
 - Large (L): both height and width measured between 110 to 220 cm
 - Extra large/long  (XL): height or width exceeds 220 cm
 
-## Source of Data
+## Sources of Data
 
 - Academica Sinica 中央研究院, Tuxiang ziliao ku 圖像資料庫 (Repository of Image Sources), Gongxiang yu shuxiang shiba shiji qian Dongya wenhua yixiang de huiju liuchuan yu bianyi 共相與殊相: 十八世紀前東亞文化意象的匯聚、流傳與變異 (Commonality and Divergence: The Convergence, Transmission, and Variation of Cultural Images of East Asia before the 18th Century), last updated in 2014, accessed by http://eastasia.litphil.sinica.edu.tw/database.php.
  

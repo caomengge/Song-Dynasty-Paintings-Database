@@ -6,6 +6,8 @@ This database contains extant paintings that are dated to the Song Dynasty (960-
 
 This database is designed for conducting quantitative analysis on the development of painting formats in the Song dynasty. The preliminary results are under the directory "visualization."
 
+This project is supported by the Center for Digital Humanities, Princeton University. 
+
 
 
 ## Attributes
